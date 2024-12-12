@@ -1,6 +1,6 @@
 # Comparative analysis of Whisper and Deepgram STT models
  
-## Setup and installation instructias.
+### Setup and installation instructias.
 
 **To run inference scripts _transcription_whisper.py_ and _transcriptin_deepgram.py_, kindly ensure that:**
 - Python 3.11 or latter is installed on your system;
@@ -9,10 +9,12 @@
 Dataset contains audio files in mp3 format and transscriptions in tsv format. For the purpose of test task, mp3 was converted to wav programmatically.
 - In order to process your audio file(s), a correct name and path have to be specified along with ground truth reference text file(s).
   
-## An explanation of The metrics logged (latency, WER).
+### An explanation of The metrics logged (latency, WER).
 
-The log file metrics.log is structured in the way to allow user review historical transcription results for both Whisper and Deepgram models.
+The log file _metrics.log_ is structured in the way to allow user review historical transcription results for both Whisper and Deepgram models.
 Those results include latency and word error rate along with transcribed text.
+Latency is defined as time lapsed while the main transcription function was being executed. For Deepgram, it also includes websocket connection.
+Word error rate is defined with the following formula:
 WER = (S + D + I)/(S + D + C),
 
 where:
