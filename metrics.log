@@ -1,0 +1,18 @@
+2024-12-12 00:50:37,124 - INFO - Deepgram Latency: 2.98 seconds
+2024-12-12 00:50:37,124 - INFO - Deepgram WER: 13.00
+2024-12-12 00:50:37,124 - INFO - Deepgram Transcription: In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.
+2024-12-12 00:50:44,464 - INFO - Deepgram Latency: 1.62 seconds
+2024-12-12 00:50:44,464 - INFO - Deepgram WER: 13.00
+2024-12-12 00:50:44,464 - INFO - Deepgram Transcription: In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.
+2024-12-12 12:12:05,046 - INFO - Deepgram Latency: 1.37 seconds
+2024-12-12 12:12:05,047 - INFO - Deepgram WER: 13.00
+2024-12-12 12:12:05,047 - INFO - Deepgram Transcription: In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.
+2024-12-12 12:21:38,260 - INFO - Whisper Latency: 363.98 seconds
+2024-12-12 12:21:38,260 - INFO - Whisper WER: 13.00
+2024-12-12 12:21:38,260 - INFO - Whisper Transcription:  In this position he learned mathematics, Greek, Italian, Spanish, and several oriental languages.
+2024-12-12 12:30:36,368 - INFO - Whisper Latency: 348.92 seconds
+2024-12-12 12:30:36,368 - INFO - Whisper WER: 13.00
+2024-12-12 12:30:36,368 - INFO - Whisper Transcription:  In this position he learned mathematics, Greek, Italian, Spanish, and several oriental languages.
+2024-12-12 13:04:59,089 - INFO - Deepgram Latency: 2.62 seconds
+2024-12-12 13:04:59,090 - INFO - Deepgram WER: 13.00
+2024-12-12 13:04:59,090 - INFO - Deepgram Transcription: In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.

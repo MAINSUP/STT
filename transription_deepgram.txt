@@ -1,0 +1,18 @@
+Transcription for input_audio.wav:
+('In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.', 4.973803997039795, 13.0)
+
+Transcription for input_audio.wav:
+('In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.', 1.8420984745025635, 13.0)
+
+Transcription for input_audio.wav:
+('In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.', 2.980963706970215, 13.0)
+
+Transcription for input_audio.wav:
+('In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.', 1.6172010898590088, 13.0)
+
+Transcription for input_audio.wav:
+('In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.', 1.3674142360687256, 13.0)
+
+Transcription for input_audio.wav:
+('In this position, he learned mathematics, Greek, Italian, Spanish, and several oriental languages.', 2.616450309753418, 13.0)
+
