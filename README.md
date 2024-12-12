@@ -2,7 +2,7 @@
  
 ## Setup and installation instructias.
 
-To run inference scripts transcription_whisper.py and transcriptin_deepgram.py, kindly ensure that
+*** To run inference scripts transcription_whisper.py and transcriptin_deepgram.py, kindly ensure that:
 - Python 3.11 or latter is installed on your system;
 - All necessary libraries listed in requirments.txt are installed in your environment;
 - Input audio file and ground truth reference text were obtained from [Common Voice Delta Segment 19.0 dataset](https://commonvoice.mozilla.org/uk/datasets).
