@@ -8,8 +8,8 @@
 - Input audio file and ground truth reference text were obtained from [Common Voice Delta Segment 19.0 dataset](https://commonvoice.mozilla.org/uk/datasets).
 Dataset contains audio files in mp3 format and transscriptions in tsv format. For the purpose of test task, mp3 was converted to wav programmatically.
 - In order to process your audio file(s), a correct name and path have to be specified along with ground truth reference text file(s).
-  [!Note]
-Whisper transcription script will automatically convert audio sample rate to 16000 Hz to meet inference requirments.
+>[!Note]
+>Whisper transcription script will automatically convert audio sample rate to 16000 Hz to meet inference requirments.
 
 ### An explanation of The metrics logged (latency, WER).
 
