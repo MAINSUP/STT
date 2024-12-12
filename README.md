@@ -5,7 +5,7 @@
 To run inference scripts transcription_whisper.py and transcriptin_deepgram.py, kindly ensure that
 - Python 3.11 or latter is installed on your system;
 - All necessary libraries listed in requirments.txt are installed in your environment;
-- Input audio file and ground truth reference text were obtained from <a/ Common Voice Delta Segment 19.0 dataset href=https://commonvoice.mozilla.org/uk/datasets a/>
+- Input audio file and ground truth reference text were obtained from [Common Voice Delta Segment 19.0 dataset] (href=https://commonvoice.mozilla.org/uk/datasets)
 Dataset contains audio files in mp3 format and transscriptions in tsv format. For the purpose of test task, mp3 was converted to wav programmatically.
 - In order to process your audio file(s), a correct name and path have to be specified along with ground truth reference text file(s).
   
