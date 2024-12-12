@@ -1,12 +1,12 @@
 # Comparative analysis of Whisper and Deepgram STT models
  
-### Setup and installation instructias.
+### Setup and installation instructions.
 
-**To run inference scripts _transcription_whisper.py_ and _transcriptin_deepgram.py_, kindly ensure that:**
-- Python 3.11 or latter is installed on your system;
+**To run inference scripts _transcription_whisper.py_ and _transcription_deepgram.py_, kindly ensure that:**
+- Python 3.11 or later is installed on your system;
 - All necessary libraries listed in requirments.txt are installed in your environment;
 - Input audio file and ground truth reference text were obtained from [Common Voice Delta Segment 19.0 dataset](https://commonvoice.mozilla.org/uk/datasets).
-Dataset contains audio files in mp3 format and transscriptions in tsv format. For the purpose of test task, mp3 was converted to wav programmatically.
+Dataset contains audio files in mp3 format and transcriptions in tsv format. For the purpose of test task, mp3 was converted to wav programmatically.
 - In order to process your audio file(s), a correct name and path have to be specified along with ground truth reference text file(s).
 >[!Note]
 >Whisper transcription script will automatically convert audio sample rate to 16000 Hz to meet inference requirments.
